@@ -1,4 +1,6 @@
 # rock-paper-scissors
 
-Remember to open console to get output
-Console version of rock, paper, scissors game between user and computer
+Rock, paper, scissors game between human and computer
+
+## Usage
+Click github pages link to access game
