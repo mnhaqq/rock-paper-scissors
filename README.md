@@ -3,4 +3,4 @@
 Rock, paper, scissors game between human and computer
 
 ## Usage
-Click github pages link to access game
+Click this link to access game: https://mnhaqq.github.io/rock-paper-scissors/
